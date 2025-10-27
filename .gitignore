@@ -1,0 +1,5 @@
+data/* 
+mlruns/*
+.venv
+__pycache__
+.python-version
